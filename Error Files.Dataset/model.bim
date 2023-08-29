@@ -1,0 +1,3506 @@
+{
+  "compatibilityLevel": 1567,
+  "model": {
+    "annotations": [
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"Error Files\",\"Unmapped\"]"
+      },
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "1"
+      },
+      {
+        "name": "PBIDesktopVersion",
+        "value": "2.120.731.0 (23.08)"
+      },
+      {
+        "name": "PBI_ProTooling",
+        "value": "[\"DevMode\"]"
+      }
+    ],
+    "culture": "en-US",
+    "cultures": [
+      {
+        "name": "en-US",
+        "linguisticMetadata": {
+          "content": {
+            "DynamicImprovement": "HighConfidence",
+            "Entities": {
+              "b2b.b2b_tp": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "B2B",
+                    "ConceptualProperty": "B2B_TP"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Report Type": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "b2b.b2coprid_new": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "B2B",
+                    "ConceptualProperty": "B2COprID_new"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "B2C Operator": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "b2b.date_2": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "B2B",
+                    "ConceptualProperty": "Date 2"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Date": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "b2b.day": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "B2B",
+                    "ConceptualProperty": "Day"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Day": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "b2b.gameid": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "B2B",
+                    "ConceptualProperty": "gameID"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Game ID": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "b2b.gsp": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "B2B",
+                    "ConceptualProperty": "GSP"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "GSP": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "b2b.licenseid": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "B2B",
+                    "ConceptualProperty": "LicenseId"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "License ID": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "b2b.mmm": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "B2B",
+                    "ConceptualProperty": "MMM"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Month": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "b2b.name": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "B2B",
+                    "ConceptualProperty": "Name"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "File Name": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "b2b.permitnumber": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "B2B",
+                    "ConceptualProperty": "PermitNumber"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Permit Number": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "b2b.rmtgmsysid": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "B2B",
+                    "ConceptualProperty": "rmtGmSysID"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Rmt Gm Sys ID": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "b2b.year": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "B2B",
+                    "ConceptualProperty": "Year"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Year": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "b2b.year_month": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "B2B",
+                    "ConceptualProperty": "Year Month"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Year Month": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "dimension": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Dimensions"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "dimension": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "measurement": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "length": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "height": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "width": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "breadth": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "aspect": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "element": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "facet": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  },
+                  {
+                    "feature": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  },
+                  {
+                    "factor": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "dimension.dimension": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Dimensions",
+                    "ConceptualProperty": "Dimensions"
+                  }
+                },
+                "NameType": "Name",
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "dimension": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "dimension name": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "measurement": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "length": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "height": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "width": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "breadth": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "aspect": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "element": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "facet": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  },
+                  {
+                    "feature": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  },
+                  {
+                    "factor": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              },
+              "dimension.dimensions_field": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Dimensions",
+                    "ConceptualProperty": "Dimensions Fields"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "dimensions field": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "dimension field": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.78
+                    }
+                  },
+                  {
+                    "field": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "dimension arena": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.5
+                    }
+                  },
+                  {
+                    "arena": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "dimension turf": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "dimension ground": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "dimension pitch": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "dimension park": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "turf": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "ground": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "pitch": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "park": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  }
+                ],
+                "Visibility": {
+                  "Value": "Hidden"
+                }
+              },
+              "dimension.dimensions_order": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Dimensions",
+                    "ConceptualProperty": "Dimensions Order"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "dimensions order": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "dimension order": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.78
+                    }
+                  },
+                  {
+                    "order": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "dimension instruction": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.5
+                    }
+                  },
+                  {
+                    "dimension direction": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.5
+                    }
+                  },
+                  {
+                    "dimension edict": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.5
+                    }
+                  },
+                  {
+                    "instruction": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "direction": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "edict": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "dimension command": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "dimension directive": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "dimension demand": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "dimension mandate": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  }
+                ],
+                "Visibility": {
+                  "Value": "Hidden"
+                }
+              },
+              "msrs.coin_in": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "MSRS",
+                    "ConceptualProperty": "Coin In"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Coin In": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "msrs.coin_out": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "MSRS",
+                    "ConceptualProperty": "Coin Out"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Coin Out": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "msrs.ggr": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "MSRS",
+                    "ConceptualProperty": "GGR"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "GGR": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "msrs.ggr_": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "MSRS",
+                    "ConceptualProperty": "GGR %"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "GGR %": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "msrs.rtp": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "MSRS",
+                    "ConceptualProperty": "RTP"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "RTP": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "operators.brand": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Operators",
+                    "ConceptualProperty": "Brand"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Brand Name": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "operators.entitytype": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Operators",
+                    "ConceptualProperty": "EntityType"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Entity Type": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "operators.operatornameen": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Operators",
+                    "ConceptualProperty": "OperatorNameEn"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Operator Name - EN": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "operators.operatornamege": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Operators",
+                    "ConceptualProperty": "OperatorNameGe"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Operator Name - GE": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "query_1": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Error Files"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "query 1": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "Query1": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  }
+                ]
+              },
+              "query_1.company_id": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Error Files",
+                    "ConceptualProperty": "Company ID"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "company id": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "CompanyId": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "company": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "company identification": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "company identity": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "company identifier": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "co": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "corp": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "corporation": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "corps": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "employer": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "enterprise": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "company credential": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  }
+                ]
+              },
+              "query_1.company_name": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Error Files",
+                    "ConceptualProperty": "Company Name"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "company name": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "CompanyName": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "company": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "co": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "corp": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "corporation": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "corps": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "employer": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "enterprise": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "company nickname": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "company title": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "company label": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "company tag": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  }
+                ]
+              },
+              "query_1.date": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Error Files",
+                    "ConceptualProperty": "Date"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "date": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "moment": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "period": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  }
+                ]
+              },
+              "query_1.error": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Error Files",
+                    "ConceptualProperty": "Error"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "error": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "booboo": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "inaccuracy": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "miscalculation": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "slipup": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "mistake": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "fault": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "blunder": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "boo-boo": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "slip": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "slip-up": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  }
+                ]
+              },
+              "query_1.file_name": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Error Files",
+                    "ConceptualProperty": "File Name"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "file name": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "FileName": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "file": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "file nickname": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "file title": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "file label": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "file tag": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "folder": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "dossier": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "organizer": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "categorizer": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "wallet": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "sleeve": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  }
+                ]
+              },
+              "query_1.file_type": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Error Files",
+                    "ConceptualProperty": "File Type"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "file type": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "FileType": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "type": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "file category": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "file genre": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "file manner": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "file variety": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "category": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "genre": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "manner": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "variety": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "file brand": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "file class": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  }
+                ]
+              },
+              "query_1.has_correct_file_with_greater_version": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Error Files",
+                    "ConceptualProperty": "Has Correct File With Greater Version"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "has correct file with greater version": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "has_correct_file_with_greater_version": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  }
+                ]
+              },
+              "query_1.license_id": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Error Files",
+                    "ConceptualProperty": "License ID"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "license id": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "LicenseId": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "license": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "license identification": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "license identity": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "license identifier": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "license credential": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "authorization": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "certificate": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "warrant": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "pass": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "permit": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "ticket": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  }
+                ]
+              },
+              "query_1.name": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Error Files",
+                    "ConceptualProperty": "Name"
+                  }
+                },
+                "NameType": "Name",
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "name": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "title": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  },
+                  {
+                    "label": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  },
+                  {
+                    "tag": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  }
+                ]
+              },
+              "query_1.user_id": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Error Files",
+                    "ConceptualProperty": "User ID"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "user id": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "UserId": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "user": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "user identification": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "user identity": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "user identifier": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.75
+                    }
+                  },
+                  {
+                    "user credential": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "operator": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "worker": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "employer": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "manipulator": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "handler": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "manager": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  }
+                ]
+              },
+              "query_1.user_name": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Error Files",
+                    "ConceptualProperty": "UserName"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "user name": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "UserName": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "user": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "user nickname": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "user title": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "user label": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "user tag": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.727
+                    }
+                  },
+                  {
+                    "operator": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "worker": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "employer": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "manipulator": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "handler": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "manager": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  }
+                ]
+              },
+              "query_1.version": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Error Files",
+                    "ConceptualProperty": "Version"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "version": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "variety": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "form": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "kind": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "style": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "description": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.466
+                    }
+                  },
+                  {
+                    "account": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  },
+                  {
+                    "report": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  },
+                  {
+                    "story": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  },
+                  {
+                    "side": {
+                      "Source": {
+                        "Agent": "OfficeThesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.452
+                    }
+                  }
+                ]
+              }
+            },
+            "Language": "en-US",
+            "Relationships": {
+              "dimension_is_named_dimension": {
+                "Binding": {
+                  "ConceptualEntity": "Dimensions"
+                },
+                "Phrasings": [
+                  {
+                    "Name": {
+                      "Name": {
+                        "Role": "dimension.dimension"
+                      },
+                      "Subject": {
+                        "Role": "dimension"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  },
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dimension.dimension"
+                      },
+                      "Subject": {
+                        "Role": "dimension"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dimension": {
+                    "Target": {
+                      "Entity": "dimension"
+                    }
+                  },
+                  "dimension.dimension": {
+                    "Target": {
+                      "Entity": "dimension.dimension"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "query_1_error_err_query_1": {
+                "Binding": {
+                  "ConceptualEntity": "Error Files"
+                },
+                "Phrasings": [
+                  {
+                    "State": "Generated",
+                    "Verb": {
+                      "Object": {
+                        "Role": "query_1"
+                      },
+                      "Subject": {
+                        "Role": "query_1.error"
+                      },
+                      "Verbs": [
+                        {
+                          "err": {
+                            "State": "Generated"
+                          }
+                        }
+                      ]
+                    },
+                    "Weight": 0.75
+                  },
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1"
+                      },
+                      "Subject": {
+                        "Role": "query_1.error"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  },
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1.error"
+                      },
+                      "Subject": {
+                        "Role": "query_1"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "query_1": {
+                    "Target": {
+                      "Entity": "query_1"
+                    }
+                  },
+                  "query_1.error": {
+                    "Target": {
+                      "Entity": "query_1.error"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "query_1_has_company_id": {
+                "Binding": {
+                  "ConceptualEntity": "Error Files"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1.company_id"
+                      },
+                      "Subject": {
+                        "Role": "query_1"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "query_1": {
+                    "Target": {
+                      "Entity": "query_1"
+                    }
+                  },
+                  "query_1.company_id": {
+                    "Target": {
+                      "Entity": "query_1.company_id"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "query_1_has_company_name": {
+                "Binding": {
+                  "ConceptualEntity": "Error Files"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1.company_name"
+                      },
+                      "Subject": {
+                        "Role": "query_1"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "query_1": {
+                    "Target": {
+                      "Entity": "query_1"
+                    }
+                  },
+                  "query_1.company_name": {
+                    "Target": {
+                      "Entity": "query_1.company_name"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "query_1_has_date": {
+                "Binding": {
+                  "ConceptualEntity": "Error Files"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1.date"
+                      },
+                      "Subject": {
+                        "Role": "query_1"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "query_1": {
+                    "Target": {
+                      "Entity": "query_1"
+                    }
+                  },
+                  "query_1.date": {
+                    "Target": {
+                      "Entity": "query_1.date"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "query_1_has_file_name": {
+                "Binding": {
+                  "ConceptualEntity": "Error Files"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1.file_name"
+                      },
+                      "Subject": {
+                        "Role": "query_1"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "query_1": {
+                    "Target": {
+                      "Entity": "query_1"
+                    }
+                  },
+                  "query_1.file_name": {
+                    "Target": {
+                      "Entity": "query_1.file_name"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "query_1_has_file_type": {
+                "Binding": {
+                  "ConceptualEntity": "Error Files"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1.file_type"
+                      },
+                      "Subject": {
+                        "Role": "query_1"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "query_1": {
+                    "Target": {
+                      "Entity": "query_1"
+                    }
+                  },
+                  "query_1.file_type": {
+                    "Target": {
+                      "Entity": "query_1.file_type"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "query_1_has_has_correct_file_with_greater_version": {
+                "Binding": {
+                  "ConceptualEntity": "Error Files"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1.has_correct_file_with_greater_version"
+                      },
+                      "Subject": {
+                        "Role": "query_1"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "query_1": {
+                    "Target": {
+                      "Entity": "query_1"
+                    }
+                  },
+                  "query_1.has_correct_file_with_greater_version": {
+                    "Target": {
+                      "Entity": "query_1.has_correct_file_with_greater_version"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "query_1_has_license_id": {
+                "Binding": {
+                  "ConceptualEntity": "Error Files"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1.license_id"
+                      },
+                      "Subject": {
+                        "Role": "query_1"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "query_1": {
+                    "Target": {
+                      "Entity": "query_1"
+                    }
+                  },
+                  "query_1.license_id": {
+                    "Target": {
+                      "Entity": "query_1.license_id"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "query_1_has_user_id": {
+                "Binding": {
+                  "ConceptualEntity": "Error Files"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1.user_id"
+                      },
+                      "Subject": {
+                        "Role": "query_1"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "query_1": {
+                    "Target": {
+                      "Entity": "query_1"
+                    }
+                  },
+                  "query_1.user_id": {
+                    "Target": {
+                      "Entity": "query_1.user_id"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "query_1_has_version": {
+                "Binding": {
+                  "ConceptualEntity": "Error Files"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1.version"
+                      },
+                      "Subject": {
+                        "Role": "query_1"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "query_1": {
+                    "Target": {
+                      "Entity": "query_1"
+                    }
+                  },
+                  "query_1.version": {
+                    "Target": {
+                      "Entity": "query_1.version"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "query_1_is_named_name": {
+                "Binding": {
+                  "ConceptualEntity": "Error Files"
+                },
+                "Phrasings": [
+                  {
+                    "Name": {
+                      "Name": {
+                        "Role": "query_1.name"
+                      },
+                      "Subject": {
+                        "Role": "query_1"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  },
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1.name"
+                      },
+                      "Subject": {
+                        "Role": "query_1"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "query_1": {
+                    "Target": {
+                      "Entity": "query_1"
+                    }
+                  },
+                  "query_1.name": {
+                    "Target": {
+                      "Entity": "query_1.name"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "query_1_user_name_use_query_1": {
+                "Binding": {
+                  "ConceptualEntity": "Error Files"
+                },
+                "Phrasings": [
+                  {
+                    "State": "Generated",
+                    "Verb": {
+                      "Object": {
+                        "Role": "query_1"
+                      },
+                      "Subject": {
+                        "Role": "query_1.user_name"
+                      },
+                      "Verbs": [
+                        {
+                          "use": {
+                            "State": "Generated"
+                          }
+                        }
+                      ]
+                    },
+                    "Weight": 0.75
+                  },
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1"
+                      },
+                      "Subject": {
+                        "Role": "query_1.user_name"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  },
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "query_1.user_name"
+                      },
+                      "Subject": {
+                        "Role": "query_1"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "query_1": {
+                    "Target": {
+                      "Entity": "query_1"
+                    }
+                  },
+                  "query_1.user_name": {
+                    "Target": {
+                      "Entity": "query_1.user_name"
+                    }
+                  }
+                },
+                "State": "Generated"
+              }
+            },
+            "Version": "3.1.0"
+          },
+          "contentType": "json"
+        }
+      }
+    ],
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "sourceQueryCulture": "en-US",
+    "tables": [
+      {
+        "name": "Dimensions",
+        "annotations": [
+          {
+            "name": "PBI_Id",
+            "value": "4e5ebfb9e9b84de486034d889a051e47"
+          }
+        ],
+        "columns": [
+          {
+            "name": "Dimensions",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "isDataTypeInferred": true,
+            "isNameInferred": false,
+            "lineageTag": "1b625c35-876c-44a9-9889-e76a96a69569",
+            "relatedColumnDetails": {
+              "groupByColumns": [
+                {
+                  "groupingColumn": "Dimensions Fields"
+                }
+              ]
+            },
+            "sortByColumn": "Dimensions Order",
+            "sourceColumn": "[Value1]",
+            "summarizeBy": "none",
+            "type": "calculatedTableColumn"
+          },
+          {
+            "name": "Dimensions Fields",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "extendedProperties": [
+              {
+                "name": "ParameterMetadata",
+                "type": "json",
+                "value": {
+                  "kind": 2,
+                  "version": 3
+                }
+              }
+            ],
+            "isDataTypeInferred": true,
+            "isHidden": true,
+            "isNameInferred": false,
+            "lineageTag": "253e7b90-1392-4812-8ee7-16bf82f3f075",
+            "sortByColumn": "Dimensions Order",
+            "sourceColumn": "[Value2]",
+            "summarizeBy": "none",
+            "type": "calculatedTableColumn"
+          },
+          {
+            "name": "Dimensions Order",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "isDataTypeInferred": true,
+            "isHidden": true,
+            "isNameInferred": false,
+            "lineageTag": "9278deb6-02fe-4878-9fd5-fe26bb73b829",
+            "sourceColumn": "[Value3]",
+            "summarizeBy": "sum",
+            "type": "calculatedTableColumn"
+          }
+        ],
+        "lineageTag": "686c32c9-0b09-4e63-8f9b-206403776dc4",
+        "partitions": [
+          {
+            "name": "Dimensions-7f32b161-8f15-4e6d-a5fb-3d71e71b613a",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "{",
+                "    (\"Company Name\", NAMEOF('Error Files'[Company Name]), 0),",
+                "    (\"Date\", NAMEOF('Error Files'[Date]), 1),",
+                "    (\"Error\", NAMEOF('Error Files'[Error]), 2),",
+                "    (\"File Type\", NAMEOF('Error Files'[File Type]), 3),",
+                "    (\"licence ID\", NAMEOF('Error Files'[License ID]), 4),",
+                "    (\"Name\", NAMEOF('Error Files'[File Name]), 5),",
+                "    (\"User Name\", NAMEOF('Error Files'[UserName]), 6),",
+                "    (\"Versions\", NAMEOF('Error Files'[Version]), 7)",
+                "}"
+              ],
+              "type": "calculated"
+            }
+          }
+        ]
+      },
+      {
+        "name": "DateTableTemplate_8cc6bdbc-636b-4768-893b-3822d22fa326",
+        "annotations": [
+          {
+            "name": "__PBI_TemplateDateTable",
+            "value": "true"
+          },
+          {
+            "name": "DefaultItem",
+            "value": "DateHierarchy"
+          }
+        ],
+        "columns": [
+          {
+            "name": "Date",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              }
+            ],
+            "dataCategory": "PaddedDateTableDates",
+            "dataType": "dateTime",
+            "isDataTypeInferred": true,
+            "isHidden": true,
+            "isNameInferred": true,
+            "lineageTag": "0abbfa8d-f681-4fbf-ac52-37f2e4729a11",
+            "sourceColumn": "[Date]",
+            "summarizeBy": "none",
+            "type": "calculatedTableColumn"
+          },
+          {
+            "name": "Year",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Year"
+              }
+            ],
+            "dataCategory": "Years",
+            "dataType": "int64",
+            "expression": "YEAR([Date])",
+            "isDataTypeInferred": true,
+            "isHidden": true,
+            "lineageTag": "b68e5673-dd70-4d23-8fa7-38a15ae0ed2a",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "MonthNo",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "MonthNumber"
+              }
+            ],
+            "dataCategory": "MonthOfYear",
+            "dataType": "int64",
+            "expression": "MONTH([Date])",
+            "isDataTypeInferred": true,
+            "isHidden": true,
+            "lineageTag": "f86f564d-1583-4f44-8f6d-55c6248d8818",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Month",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Month"
+              }
+            ],
+            "dataCategory": "Months",
+            "dataType": "string",
+            "expression": "FORMAT([Date], \"MMMM\")",
+            "isDataTypeInferred": true,
+            "isHidden": true,
+            "lineageTag": "12f425b4-16ac-462a-acaa-52c422eb5dfa",
+            "sortByColumn": "MonthNo",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "QuarterNo",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "QuarterNumber"
+              }
+            ],
+            "dataCategory": "QuarterOfYear",
+            "dataType": "int64",
+            "expression": "INT(([MonthNo] + 2) / 3)",
+            "isDataTypeInferred": true,
+            "isHidden": true,
+            "lineageTag": "13587a58-51ba-4c1a-a7f6-189122c04aa3",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Quarter",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Quarter"
+              }
+            ],
+            "dataCategory": "Quarters",
+            "dataType": "string",
+            "expression": "\"Qtr \" & [QuarterNo]",
+            "isDataTypeInferred": true,
+            "isHidden": true,
+            "lineageTag": "cf8acfaa-c9d6-4db4-82c5-f0dc6766acb0",
+            "sortByColumn": "QuarterNo",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Day",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Day"
+              }
+            ],
+            "dataCategory": "DayOfMonth",
+            "dataType": "int64",
+            "expression": "DAY([Date])",
+            "isDataTypeInferred": true,
+            "isHidden": true,
+            "lineageTag": "16dcd518-d540-4792-85c2-769e4bf3eff4",
+            "summarizeBy": "none",
+            "type": "calculated"
+          }
+        ],
+        "hierarchies": [
+          {
+            "name": "Date Hierarchy",
+            "annotations": [
+              {
+                "name": "TemplateId",
+                "value": "DateHierarchy"
+              }
+            ],
+            "levels": [
+              {
+                "name": "Year",
+                "column": "Year",
+                "lineageTag": "89809f4d-d97f-46f4-8985-8177dd5e5330",
+                "ordinal": 0
+              },
+              {
+                "name": "Quarter",
+                "column": "Quarter",
+                "lineageTag": "2caaf6a8-1c00-4904-8a0f-60dd04943fc4",
+                "ordinal": 1
+              },
+              {
+                "name": "Month",
+                "column": "Month",
+                "lineageTag": "355556e6-b966-4514-8151-4bed84ba75e9",
+                "ordinal": 2
+              },
+              {
+                "name": "Day",
+                "column": "Day",
+                "lineageTag": "00524194-7abc-4955-b0ff-608f46a40ab5",
+                "ordinal": 3
+              }
+            ],
+            "lineageTag": "4e32ff77-761d-4fa9-833a-20310cf4390d"
+          }
+        ],
+        "isHidden": true,
+        "isPrivate": true,
+        "lineageTag": "008579d7-f968-4ea2-b7b7-087d0266ff07",
+        "partitions": [
+          {
+            "name": "DateTableTemplate_8cc6bdbc-636b-4768-893b-3822d22fa326-d66f3b22-78d5-46be-861f-f6aa4107ce33",
+            "mode": "import",
+            "source": {
+              "expression": "Calendar(Date(2015,1,1), Date(2015,1,1))",
+              "type": "calculated"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Error Files",
+        "annotations": [
+          {
+            "name": "PBI_ResultType",
+            "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
+          }
+        ],
+        "columns": [
+          {
+            "name": "File Name",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "bfc77841-5014-4f17-a82c-b054c90a4491",
+            "sourceColumn": "File Name",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Name",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "8d38c343-3822-4ae4-8ff7-c2c0525c2956",
+            "sourceColumn": "Name",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Error",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "0a0d0746-cd9a-4b81-bcfd-dbc300bfbb4e",
+            "sourceColumn": "Error",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "License ID",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "7d2fbc7e-33ee-4bad-b855-f5380ff6cc70",
+            "sourceColumn": "License ID",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "File Type",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "921e6248-6770-4a3d-8ed4-28eb12928c4a",
+            "sourceColumn": "File Type",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Date",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "9f124df7-e1f2-41d4-acf7-39d956adfbbd",
+            "sourceColumn": "Date",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Version",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "092f0a0c-9172-43a3-8c49-d86c72ed2d8e",
+            "sourceColumn": "Version",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Company ID",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              }
+            ],
+            "changedProperties": [
+              {
+                "property": "DataType"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "0b436862-a032-4ab9-8395-a5214535f63f",
+            "sourceColumn": "Company ID",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Company Name",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "08a40416-bf0c-4c6b-a089-b03c3beabe8c",
+            "sourceColumn": "Company Name",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "User ID",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "PBI_FormatHint",
+                "value": "{\"isGeneralNumber\":true}"
+              }
+            ],
+            "dataType": "double",
+            "lineageTag": "f1a2bee7-1096-4c74-ac78-ee42f5e42bf5",
+            "sourceColumn": "User ID",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "UserName",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "7761bc7a-50cb-41f3-aca3-3e8d3cf76961",
+            "sourceColumn": "UserName",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Has Correct File With Greater Version",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "0e87d800-0c16-4d04-9e4e-66f7fe55b824",
+            "sourceColumn": "Has Correct File With Greater Version",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Month",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "expression": "MONTH('Error Files'[Date])",
+            "formatString": "0",
+            "isDataTypeInferred": true,
+            "lineageTag": "89730bfa-7705-40dc-b681-20a49acb505c",
+            "summarizeBy": "sum",
+            "type": "calculated"
+          },
+          {
+            "name": "Day",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "expression": "DAY('Error Files'[Date])",
+            "formatString": "0",
+            "isDataTypeInferred": true,
+            "lineageTag": "25ca1731-75e5-4541-86b3-7e040ed9633c",
+            "summarizeBy": "sum",
+            "type": "calculated"
+          },
+          {
+            "name": "Year",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "expression": "YEAR('Error Files'[Date])",
+            "formatString": "0",
+            "isDataTypeInferred": true,
+            "lineageTag": "682a6d3a-dd27-48af-93f4-a221f56ca6e2",
+            "summarizeBy": "sum",
+            "type": "calculated"
+          },
+          {
+            "name": "MMM",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "changedProperties": [
+              {
+                "property": "SortByColumn"
+              }
+            ],
+            "dataType": "string",
+            "expression": [
+              "",
+              "SWITCH (",
+              "    'Error Files'[Month],",
+              "    1, \"Jan\",",
+              "    2, \"Feb\",",
+              "    3, \"Mar\",",
+              "    4, \"Apr\",",
+              "    5, \"May\",",
+              "    6, \"Jun\",",
+              "    7, \"Jul\",",
+              "    8, \"Aug\",",
+              "    9, \"Sep\",",
+              "    10, \"Oct\",",
+              "    11, \"Nov\",",
+              "    12, \"Dec\"",
+              ")"
+            ],
+            "isDataTypeInferred": true,
+            "lineageTag": "6e3d4d49-c0bf-49c6-8290-2e299c42ea8c",
+            "sortByColumn": "MMM Sort",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "MMM Sort",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "expression": [
+              "",
+              "",
+              "    MONTH ( 'Error Files'[Date] )"
+            ],
+            "formatString": "0",
+            "isDataTypeInferred": true,
+            "lineageTag": "38c55b82-30a0-4b46-b52e-8e312a39a7d5",
+            "summarizeBy": "sum",
+            "type": "calculated"
+          }
+        ],
+        "lineageTag": "86cffa9a-36be-4e56-893d-2c29a141c35c",
+        "partitions": [
+          {
+            "name": "Error Files-d5776e52-761b-4005-a05b-751a80a0da05",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Source = Odbc.Query(\"Driver=ClickHouse ODBC Driver (Unicode);Server=kjy1kjisa3.eu-central-1.aws.clickhouse.cloud;Port=8443;Secure=1;timeout=999999\", \"select * from bi.v_error_files\"),",
+                "    #\"Renamed Columns\" = Table.RenameColumns(Source,{{\"LicenseId\", \"License ID\"}, {\"CompanyName\", \"Company Name\"}, {\"CompanyId\", \"Company ID\"}, {\"has_correct_file_with_greater_version\", \"Has Correct File With Greater Version\"}, {\"UserId\", \"User ID\"}, {\"FileType\", \"File Type\"}, {\"FileName\", \"File Name\"}}),",
+                "    #\"Filtered Rows\" = Table.SelectRows(#\"Renamed Columns\", each [Has Correct File With Greater Version] = 0)",
+                "in",
+                "    #\"Filtered Rows\""
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Unmapped",
+        "annotations": [
+          {
+            "name": "PBI_ResultType",
+            "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
+          }
+        ],
+        "columns": [
+          {
+            "name": "Value",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "c1a26938-c0c0-457c-91ef-ff8abbd53419",
+            "sourceColumn": "Value",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Count",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              },
+              {
+                "name": "PBI_FormatHint",
+                "value": "{\"isGeneralNumber\":true}"
+              }
+            ],
+            "dataType": "double",
+            "lineageTag": "3a13312d-f1d8-44c6-9213-756d4dda153b",
+            "sourceColumn": "Count",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Description",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "0331e180-0f03-4618-b7ad-6d13d50d4459",
+            "sourceColumn": "Description",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "file_name",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "dba8624a-279c-41c9-95aa-c1d4b4e7bdce",
+            "sourceColumn": "file_name",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Dimension",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "5db1d1f2-c27c-4a3f-9f60-54e9bf3160bd",
+            "sourceColumn": "Dimension",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Table",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "cb7a4e6c-79a0-4fea-b903-23612ad7cf16",
+            "sourceColumn": "Table",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "4289dcca-b570-405c-8331-25993742bab8",
+        "partitions": [
+          {
+            "name": "Unmapped-a4aead84-da01-44f3-8222-634b18b36ab1",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Source = Odbc.Query(\"Driver=ClickHouse ODBC Driver (Unicode);Server=kjy1kjisa3.eu-central-1.aws.clickhouse.cloud;Port=8443;Secure=1;timeout=999999\", \"select *#(lf)from bi.unmapped_values\"),",
+                "    #\"Renamed Columns\" = Table.RenameColumns(Source,{{\"CNT\", \"Count\"}}),",
+                "    #\"Inserted Text Before Delimiter\" = Table.AddColumn(#\"Renamed Columns\", \"Text Before Delimiter\", each Text.BeforeDelimiter([Description], \" \"), type text),",
+                "    #\"Inserted Text After Delimiter\" = Table.AddColumn(#\"Inserted Text Before Delimiter\", \"Text After Delimiter\", each Text.AfterDelimiter([Description], \" \"), type text),",
+                "    #\"Renamed Columns1\" = Table.RenameColumns(#\"Inserted Text After Delimiter\",{{\"Text Before Delimiter\", \"Dimension\"}, {\"Text After Delimiter\", \"Table\"}})",
+                "in",
+                "    #\"Renamed Columns1\""
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
